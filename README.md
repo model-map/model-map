@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🎮 I like to make my life lazier and easier!
-- 💻 I'm very interested in web development
-- 🌱 Jaron Lanier is my idol
-  
-![model-map's GitHub stats](https://github-readme-stats.vercel.app/api?username=model-map&count_private=true&show_icons=true&theme=jolly)
+- 💻 I'm interested in web development
+- 🌱 I like Jaron Lanier.
 
 <!--
+![model-map's GitHub stats](https://github-readme-stats.vercel.app/api?username=model-map&count_private=true&show_icons=true&theme=jolly)
+
 **model-map/model-map** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
