@@ -2,6 +2,7 @@
 
 - 💻 I'm interested in web development
 - 🌱 I like Jaron Lanier.
+- "Nothing better than having the vision of something that if it existed would make things soo much better and then making it exist."                                                                                                                                 *-/u/hijo_de_puta_69*
 
 <!--
 ![model-map's GitHub stats](https://github-readme-stats.vercel.app/api?username=model-map&count_private=true&show_icons=true&theme=jolly)
